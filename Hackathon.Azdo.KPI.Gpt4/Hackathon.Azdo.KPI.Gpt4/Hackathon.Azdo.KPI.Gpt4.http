@@ -1,0 +1,6 @@
+@Hackathon.Azdo.KPI.Gpt4_HostAddress = http://localhost:5063
+
+GET {{Hackathon.Azdo.KPI.Gpt4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
